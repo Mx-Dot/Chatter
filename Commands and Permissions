@@ -1,0 +1,17 @@
+Clearchat: 
+  Command: /clearchat
+    permission: chatter.chat.clear
+
+ChatLock:
+  Command: /chatlock
+    permission: chatter.chat.lock
+    
+ChatUnlock:
+  Command: /chatunlock
+    permission: chatter.chat.unlock
+    
+
+Other Permissions:
+
+chatter.chat.bypass.lock | Gives the users to bypass the chatlock.
+chatter.* | Gives the user access to all commands. 
